@@ -1,4 +1,4 @@
-Project 2.
+Project 2 + DevTools Homework
 
 GitHub Pages: https://adamurban04.github.io/comp484-project2v2-main-main/
 
