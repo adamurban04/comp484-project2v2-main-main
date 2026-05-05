@@ -25,7 +25,7 @@ Added simple Chrome DevTools demo triggers to satisfy the homework requirements:
 ### PDF (screenshots + implementation details)
 - [Open the PDF report](assets/examples.pdf)
 
-<embed src="assets/examples.pdf" type="application/pdf" width="100%" height="600px" />
+[![app](images/app.PNG)](images/app.PNG)
 
 ## Assets
 - Images: `/images` (including `background.jpg` and the mood sprites)
