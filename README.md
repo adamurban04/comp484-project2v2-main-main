@@ -1,6 +1,6 @@
 Project 2.
 
-GitHub Pages: https://adamurban04.github.io/comp484-project2-main/
+GitHub Pages: https://adamurban04.github.io/comp484-project2v2-main-main/
 
 ## What I added
 - `pet_info` object with stats (**name, weight, happiness, energy**) and UI updates
