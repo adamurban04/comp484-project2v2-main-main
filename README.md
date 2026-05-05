@@ -2,12 +2,6 @@ Project 2.
 
 GitHub Pages: https://adamurban04.github.io/comp484-project2-main/
 
-<p align="center">
-  <a href="images/app.png">
-    <img src="images/app.png" width="200">
-  </a>
-</p>
-
 ## What I added
 - `pet_info` object with stats (**name, weight, happiness, energy**) and UI updates
 - Action behaviors for **Treat / Play / Exercise** + a new action: **Sleep**
@@ -35,3 +29,10 @@ Added simple Chrome DevTools demo triggers to satisfy the homework requirements:
 - Images: `/images` (including `background.jpg` and the mood sprites)
 - Sounds: `/sounds` (mp3 files used by the action buttons)
 - DevTools PDF: [`assets/examples.pdf`](assets/examples.pdf)
+
+
+<p align="center">
+  <a href="images/app.png">
+    <img src="images/app.png" width="800">
+  </a>
+</p>
