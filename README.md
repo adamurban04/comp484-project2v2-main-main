@@ -22,7 +22,7 @@ Added simple Chrome DevTools demo triggers to satisfy the homework requirements:
 - Filtering demos: predictable console messages for filtering by level/text/regex/source/user messages
 - Sources debugging demo: “Reproduce Bug” + breakpoint/watch/scope + apply a fix
 
-### PDF (screenshots + implementation details)
+### DevTools Homework PDF (screenshots + implementation details)
 - [Open the PDF report](assets/examples.pdf)
 
 ## Assets
