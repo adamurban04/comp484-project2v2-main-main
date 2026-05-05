@@ -66,6 +66,9 @@ $(function() { // Makes sure that function is called once all the DOM elements o
       } else if ($btn.hasClass('dt-bug-button')) {
         // Triggers an intentional bug.
         dtReproduceBug();
+      } else if ($btn.hasClass('dt-console-extras')) {
+        // Bonus demo: extra Console API methods that are useful in DevTools.
+        dtConsoleExtras();
       } else if ($btn.hasClass('dt-clear-console')) {
         // Clears console
         console.clear();
@@ -342,6 +345,16 @@ $(function() { // Makes sure that function is called once all the DOM elements o
 
       console.log('[Reproduce a bug] buggyAverage([1,2,3,4]) expected 2.5, got:', result);
       showPetMessage('Bug reproduced. Use Sources breakpoints + Watch + Scope, then apply a fix.');
+    }
+
+    function dtConsoleExtras() {
+      // BONUS: console.count
+      // Docs: https://developer.chrome.com/docs/devtools/console/api/
+      //
+      // console.count(label): increments a counter each time this runs.
+      console.count('[Bonus] Console Extras clicked');
+
+      showPetMessage('Bonus logs: count');
     }
 
     function buggyAverage(nums) {
