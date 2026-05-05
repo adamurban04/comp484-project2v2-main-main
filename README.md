@@ -2,7 +2,11 @@ Project 2.
 
 GitHub Pages: https://adamurban04.github.io/comp484-project2-main/
 
-[![app](images/app.png|200)](images/app.png)
+<p align="center">
+  <a href="images/app.png">
+    <img src="images/app.png" width="200">
+  </a>
+</p>
 
 ## What I added
 - `pet_info` object with stats (**name, weight, happiness, energy**) and UI updates
